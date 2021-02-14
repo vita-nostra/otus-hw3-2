@@ -1,0 +1,20 @@
+{
+  "name": "vita-nostra/otus-hw3-2",
+  "description": "Пакет домашнее задание 3.2 Отус",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ladygina Nadezhda",
+      "email": "infdev@yandex.ru"
+    }
+  ],
+  "require": {
+    "php": ">=5.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "VitaNostra\\OtusHw32\\": "src/"
+    }
+  }
+}
